@@ -1,5 +1,5 @@
 # Aurelia Movies App
-Project 4 of our Bootcamp, we decided to create a movie app that could keep track of popular movies and also allow people to keep track of them via a wish list. After hearing a little about Aurelia, we decided to dabble a little more into it and learn about its functions.
+Project 4 of our Bootcamp, we decided to create a movie app that could keep track of popular movies and also allow people to keep track of them via a wish list. After hearing a little about Aurelia, we decided to dabble a little more into it and learn about its functions. Click [here](http://aurelia-movie.herokuapp.com/) to check out the site :)
 
 ## Technologies Used
 1. [Aurelia Skeleton Navigation](http://aurelia.io/docs.html#/aurelia/framework/1.0.0-beta.1.1.1/doc/article/a-production-setup)
